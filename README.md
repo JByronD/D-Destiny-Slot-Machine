@@ -1,5 +1,5 @@
 "# D-Destiny-Slot-Machine" 
-"The code in this zip is a small Godot project I coded for my players. I wanted to give out an app that'd let them roll new weaponry on a slot machine, this is that."
+"# The code in this zip is a small Godot project I coded for my players. I wanted to give out an app that'd let them roll new weaponry on a slot machine, this is that."
 "The chances for item drops are determined by a d20 roll and ar labeled as such:"
 * Whites: 1 - 7
 * Greens: 8 - 14
